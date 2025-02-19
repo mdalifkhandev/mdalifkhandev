@@ -25,7 +25,7 @@
     </a>
   </div>
 
-  <img align='right' width='300' src='./developer.gif'/>
+  <img align='right' width='300' src='./developer.gif' style="margin-top: 50px;"/>
 </div>
 
 ## 🛠️ Technical Skills
