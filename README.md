@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MD. Alif Khan</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alifkhan11&label=Profile%20views&color=0e75b6&style=flat" alt="alifkhan11" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alifkhan11&label=Profile%20views&color=0e75b6&style=flat" alt="alifkhan11" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alifkhan11" alt="alifkhan11" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alifkhan11" alt="alifkhan11" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/@mdalifk26277528" target="blank"><img src="https://img.shields.io/twitter/follow/@mdalifk26277528?logo=twitter&style=for-the-badge" alt="@mdalifk26277528" /></a> </p>
 
