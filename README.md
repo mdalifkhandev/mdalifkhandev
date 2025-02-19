@@ -1,50 +1,32 @@
 <div align="center">
   <img src='./coverphoto.jpeg' style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 10px; margin-bottom: 30px;" />
   
-  <h1 style="animation: fadeIn 2s;">MD. ALIF KHAN</h1>
-  <h3 style="animation: slideIn 1s;">Full Stack Developer (MERN) | Problem Solver | Tech Enthusiast</h3>
+  # MD. ALIF KHAN
+  ### Full Stack Developer (MERN) | Problem Solver | Tech Enthusiast
   
-  <p style="animation: fadeIn 2s;">
+  <p>
     🚀 Transforming ideas into scalable web solutions<br/>
     🌟 Specialized in building robust MERN stack applications<br/>
     💡 Passionate about clean code and best practices
   </p>
 
   <div style="margin: 40px 0;">
-    <a href="https://linkedin.com/in/alifkhan2004" target="_blank" style="text-decoration: none; margin: 0 15px; display: inline-block; transform: scale(1); transition: transform 0.3s ease;">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square&logoWidth=40" height="40" alt="LinkedIn" onmouseover="this.parentElement.style.transform='scale(1.1)'" onmouseout="this.parentElement.style.transform='scale(1)'"/>
+    <a href="https://linkedin.com/in/alifkhan2004" target="_blank" style="text-decoration: none; margin: 0 15px;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square&logoWidth=40" height="40" alt="LinkedIn"/>
     </a>
-    <a href="https://twitter.com/@mdalifk26277528" target="_blank" style="text-decoration: none; margin: 0 15px; display: inline-block; transform: scale(1); transition: transform 0.3s ease;">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=flat-square&logoWidth=40" height="40" alt="Twitter" onmouseover="this.parentElement.style.transform='scale(1.1)'" onmouseout="this.parentElement.style.transform='scale(1)'"/>
+    <a href="https://twitter.com/@mdalifk26277528" target="_blank" style="text-decoration: none; margin: 0 15px;">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=flat-square&logoWidth=40" height="40" alt="Twitter"/>
     </a>
-    <a href="https://fb.com/mdalifkhan123" target="_blank" style="text-decoration: none; margin: 0 15px; display: inline-block; transform: scale(1); transition: transform 0.3s ease;">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=flat-square&logoWidth=40" height="40" alt="Facebook" onmouseover="this.parentElement.style.transform='scale(1.1)'" onmouseout="this.parentElement.style.transform='scale(1)'"/>
+    <a href="https://fb.com/mdalifkhan123" target="_blank" style="text-decoration: none; margin: 0 15px;">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=flat-square&logoWidth=40" height="40" alt="Facebook"/>
     </a>
-    <a href="mailto:mdalifk2002@gmail.com" target="_blank" style="text-decoration: none; margin: 0 15px; display: inline-block; transform: scale(1); transition: transform 0.3s ease;">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square&logoWidth=40" height="40" alt="Email" onmouseover="this.parentElement.style.transform='scale(1.1)'" onmouseout="this.parentElement.style.transform='scale(1)'"/>
+    <a href="mailto:mdalifk2002@gmail.com" target="_blank" style="text-decoration: none; margin: 0 15px;">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square&logoWidth=40" height="40" alt="Email"/>
     </a>
   </div>
 
-  <img align='right' width='300' src='./developer.gif' style="margin-top: 50px; animation: float 3s ease-in-out infinite;"/>
+  <img align='right' width='300' src='./developer.gif' style="margin-top: 50px;"/>
 </div>
-
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-
-@keyframes slideIn {
-  from { transform: translateX(-100%); }
-  to { transform: translateX(0); }
-}
-
-@keyframes float {
-  0% { transform: translateY(0); }
-  50% { transform: translateY(-20px); }
-  100% { transform: translateY(0); }
-}
-</style>
 
 ## 🛠️ Technical Skills
 
