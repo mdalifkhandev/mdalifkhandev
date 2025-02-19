@@ -14,7 +14,7 @@
 <a href="https://twitter.com/@mdalifk26277528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mdalifk26277528" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/alifkhan2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/alifkhan2004" height="30" width="40" /></a>
 <a href="https://fb.com/mdalifkhan123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdalifkhan123" height="30" width="40" /></a>
-<img align='right' width='400' src='./developer.gif'/>
+<img align='right' width='300' src='./developer.gif'/>
 </p>
 
 <br/>
