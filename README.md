@@ -67,7 +67,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
+<br/>
+<br/>
+<p style="margin-top: 30px; margin-bottom: 30px;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alifkhan11&show_icons=true&locale=en&layout=compact" alt="alifkhan11" />
+</p>
 
-<p style="margin-top: 30px; margin-bottom: 30px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alifkhan11&show_icons=true&locale=en&layout=compact" alt="alifkhan11" /></p>
-
-<p style="margin-top: 30px; margin-bottom: 30px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alifkhan11&show_icons=true&locale=en" alt="alifkhan11" /></p>
+<br/>
+<br/>
+<br/>
+<p style="margin-top: 30px; margin-bottom: 30px;">
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alifkhan11&show_icons=true&locale=en" alt="alifkhan11" />
+</p>
