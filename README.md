@@ -1,3 +1,5 @@
+<img src='./logo.jpeg'/>
+
 <h1 align="center" style="margin-top: 30px; margin-bottom: 30px;">Hi 👋, I'm MD. Alif Khan</h1>
 <h3 align="center" style="margin-top: 30px; margin-bottom: 30px;">A passionate MERN Stack developer from Bangladesh</h3>
 
