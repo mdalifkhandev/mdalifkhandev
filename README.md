@@ -25,7 +25,14 @@
     </a>
   </div>
 
-  <img align='right' width='300' src='./developer.gif' style="margin-top: 80px;"/>
+  <div style="position: relative;">
+  <!-- Image wrapper div with styles -->
+  <div style="position: absolute; top: 30px; right: 0;">
+    <img align="right" width="300" src="./developer.gif" style="margin-top: 80px;" />
+  </div>
+</div>
+
+
 </div>
 
 ## 🛠️ Technical Skills
