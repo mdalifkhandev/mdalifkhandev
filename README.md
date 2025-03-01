@@ -24,10 +24,8 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square&logoWidth=40" height="40" alt="Email"/>
     </a>
   </div>
-<div>
 
-  <img align='right' width='300' src='./developer.gif' style="margin-top: 50px;"/>
-</div>
+  <img align='right' width='300' src='./developer.gif' style="margin-top: 80px;"/>
 </div>
 
 ## 🛠️ Technical Skills
