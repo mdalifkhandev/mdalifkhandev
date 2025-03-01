@@ -7,7 +7,7 @@
   <p>
     🚀 Transforming ideas into scalable web solutions<br/>
     🌟 Specialized in building robust MERN stack applications<br/>
-    💡 Passionate about clean code and best practices
+    💡 Passionate about clean code and best practices 
   </p>
 
   <div style="margin: 40px 0;">
@@ -24,8 +24,10 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square&logoWidth=40" height="40" alt="Email"/>
     </a>
   </div>
+<div>
 
   <img align='right' width='300' src='./developer.gif' style="margin-top: 50px;"/>
+</div>
 </div>
 
 ## 🛠️ Technical Skills
@@ -84,8 +86,8 @@
 
 ## 📫 Let's Connect!
 - 💼 Open for freelance projects and full-time opportunities
-- 📧 Email: [your.email@example.com]
-- 🌐 Portfolio: [your-portfolio-link]
+- 📧 Email: [mdalifk2002@gmail.com]
+- 🌐 Portfolio: [[your-portfolio-link](https://github.com/Alifkhan11/e-commerce-backend-team)]
 
 <div align="center">
   <b>Thanks for visiting my profile! Let's build something amazing together. 🚀</b>
