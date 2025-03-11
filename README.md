@@ -26,13 +26,10 @@
   </div>
 
   <div style="position: relative;">
-  <!-- Image wrapper div with styles -->
-  <div style="position: absolute; top: 30px; right: 0;">
-    <img align="right" width="300" src="./developer.gif" style="margin-top: 80px;" />
+    <div style="position: absolute; top: 30px; right: 0;">
+      <img align="right" width="300" src="./developer.gif" style="margin-top: 80px; border-radius: 10px;" />
+    </div>
   </div>
-</div>
-
-
 </div>
 
 ## 🛠️ Technical Skills
@@ -44,8 +41,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ### UI Libraries & Frameworks
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
@@ -60,21 +56,23 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alifkhan11&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdalifkhandev&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=alifkhan11&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdalifkhandev&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alifkhan11&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdalifkhandev&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🌟 Featured Projects
@@ -92,7 +90,7 @@
 ## 📫 Let's Connect!
 - 💼 Open for freelance projects and full-time opportunities
 - 📧 Email: [mdalifk2002@gmail.com]
-- 🌐 Portfolio: [[your-portfolio-link](https://github.com/Alifkhan11/e-commerce-backend-team)]
+- 🌐 Portfolio: [[your-portfolio-link](https://github.com/mdalifkhandev/e-commerce-backend-team)]
 
 <div align="center">
   <b>Thanks for visiting my profile! Let's build something amazing together. 🚀</b>
