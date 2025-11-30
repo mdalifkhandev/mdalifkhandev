@@ -25,11 +25,10 @@
     </a>
   </div>
 
-  
-
 ## 🛠️ Technical Skills
 
 ### Frontend Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,6 +40,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### UI Libraries & Frameworks
+
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -49,19 +49,19 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Backend Development
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-
 ### Tools & Technologies
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 
 ## 📊 GitHub Statistics
 
@@ -69,12 +69,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdalifkhandev&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
   
   <img src="https://github-readme-stats.vercel.app/api?username=mdalifkhandev&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-<!--   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdalifkhandev&theme=radical" alt="GitHub Streak" /> -->
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdalifkhandev&theme=radical" alt="GitHub Streak" />
 </div>
 
+## <h3 align="center">📈 GitHub Activity & Contribution Graph<h3/>
+
+<div align="center" style="display: flex;">
+  <img height="250em" src=https://github-readme-activity-graph.vercel.app/graph?username=mdalifkhandev&bg_color=ffffff00&color=0c77ff&line=0c77ff&point=003366&area=true&hide_border=true%22&/>
+  <img height="210em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdalifkhandev&theme=github_dark" alt="Contribution Graph" />
+</div>
 
 ## 📫 Let's Connect!
+
 - 💼 Open for freelance projects and full-time opportunities
 - 📧 Email: [mdalifk2002@gmail.com]
 - 🌐 Portfolio: [[ mdalifkhandev ](https://mdalifkhandev.vercel.app/)]
