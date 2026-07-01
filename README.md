@@ -1,5 +1,5 @@
 <div align="center">
-  <img src='./coverphoto.jpeg' style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 10px; margin-bottom: 30px;" />
+  <!-- <img src='./coverphoto.jpeg' style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 10px; margin-bottom: 30px;" /> -->
   
   #  MD. SHIHAB EBNE ALIF KHAN
   ### Full-Stack Developer — Web, Mobile & Backend | JS/TS, React, Next.js, React Native, Node, Express, PostgreSQL
