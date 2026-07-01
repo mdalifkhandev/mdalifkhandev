@@ -1,10 +1,11 @@
 <div align="center">
   <img src='./coverphoto.jpeg' style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 10px; margin-bottom: 30px;" />
   
-  # MD. ALIF KHAN
-  ### Full Stack Developer (MERN) | Problem Solver | Tech Enthusiast
+  #  MD. SHIHAB EBNE ALIF KHAN
+  ### Full-Stack Developer — Web, Mobile & Backend | JS/TS, React, Next.js, React Native, Node, Express, PostgreSQL
   
   <p>
+    💼 Jr. React Native Developer @ Sparktech Agency — Currently building mobile apps<br/>
     🚀 Transforming ideas into scalable web solutions<br/>
     🌟 Specialized in building robust MERN stack applications<br/>
     💡 Passionate about clean code and best practices 
@@ -14,13 +15,13 @@
     <a href="https://linkedin.com/in/alifkhan2004" target="_blank" style="text-decoration: none; margin: 0 15px;">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square&logoWidth=40" height="40" alt="LinkedIn"/>
     </a>
-    <a href="https://twitter.com/@mdalifk26277528" target="_blank" style="text-decoration: none; margin: 0 15px;">
+    <!-- <a href="https://twitter.com/@mdalifk26277528" target="_blank" style="text-decoration: none; margin: 0 15px;">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=flat-square&logoWidth=40" height="40" alt="Twitter"/>
-    </a>
+    </a> -->
     <a href="https://fb.com/mdalifkhan123" target="_blank" style="text-decoration: none; margin: 0 15px;">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=flat-square&logoWidth=40" height="40" alt="Facebook"/>
     </a>
-    <a href="mailto:mdalifk2002@gmail.com" target="_blank" style="text-decoration: none; margin: 0 15px;">
+    <a href="mailto:mdalifkhandev@gmail.com" target="_blank" style="text-decoration: none; margin: 0 15px;">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square&logoWidth=40" height="40" alt="Email"/>
     </a>
   </div>
@@ -38,6 +39,13 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-20232A?style=for-the-badge&logo=zustand&logoColor=white)
+
+### Mobile Development
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ### UI Libraries & Frameworks
 
@@ -54,6 +62,8 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### Tools & Technologies
 
@@ -62,6 +72,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
 ## 📊 GitHub Statistics
 
@@ -83,7 +94,7 @@
 ## 📫 Let's Connect!
 
 - 💼 Open for freelance projects and full-time opportunities
-- 📧 Email: [mdalifk2002@gmail.com]
+- 📧 Email: [mdalifkhandev@gmail.com]
 - 🌐 Portfolio: [[ mdalifkhandev ](https://mdalifkhandev.vercel.app/)]
 
 <div align="center">
